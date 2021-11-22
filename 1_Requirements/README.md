@@ -1,6 +1,6 @@
 ﻿**INTRODUCTION:**
-**
-`Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this system, you can add, view, edit, search and delete contacts. 
+
+Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this system, you can add, view, edit, search and delete contacts. 
 
 **OBJECTIVE:**
 
