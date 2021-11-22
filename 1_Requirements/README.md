@@ -1,6 +1,6 @@
 ﻿**INTRODUCTION:**
 **
-`   `Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this system, you can add, view, edit, search and delete contacts. 
+`Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this system, you can add, view, edit, search and delete contacts. 
 
 **OBJECTIVE:**
 
@@ -59,11 +59,11 @@ Vs Code with Some Extensions like C/C++.
 
 **HLR3: -** Person shall be able to List all the Contacts.
 
-**HLR4: -** Person** shall be able to Search for Contacts.
+**HLR4: -** Person shall be able to Search for Contacts.
 
 **HLR5: -** Person shall able to Edit a Contact.
 
-**HLR6: -** Person** shall able For Delete a Contact.
+**HLR6: -** Person shall able For Delete a Contact.
 
 **LOW LEVEL REQUIREMENTS (LLR):**
 
