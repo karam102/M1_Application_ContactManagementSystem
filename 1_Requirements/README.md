@@ -10,30 +10,30 @@ A computerized Student Record System will eliminate those cumbersome tasks and w
 
 **Benefits:**
 
-- Less burden on Staff.
-- Better management of Records.
-- Reduced wastage of paper.
-- Time saving.
-- Improved Communication.
-- Easy tracking of all students.
-- Reduction of human labor and workload.
+Less burden on Staff.
+Better management of Records.
+Reduced wastage of paper.
+Time saving.
+Improved Communication.
+Easy tracking of all students.
+Reduction of human labor and workload.
 
 **SWOT ANALYSIS:**
 
 **Strength:**
 
-- Easy maintenance and reuse of records.
-- save lots of paper.
+Easy maintenance and reuse of records.
+save lots of paper.
 
 **Weakness:**
 
-- software training will be required.
-- There should be some backup data.
+software training will be required.
+There should be some backup data.
 
 **Opportunities:**
 
-- A big step towards digitalization.
-- Skill advancement, better facility and improve in work life.
+A big step towards digitalization.
+Skill advancement, better facility and improve in work life.
 
 **Threats:**
 
@@ -41,8 +41,8 @@ Hardware failure can lead to data loss.
 
 **Who:**
 
-- Small scale to large scale educational institutes.
-- Various academies of different field.
+Small scale to large scale educational institutes.
+Various academies of different field.
 
 **What:**
 
@@ -64,20 +64,20 @@ The problem was known because of the inconvinience it caused to staff, managemen
 
 **High Level Requirements:**
 
-- User shall be able to add new Student record.
-- User shall be able to delete a Student record.
-- User shall be able to print a Student record.
-- User shall be able to check whether a Student is eligible Technical.
-- User shall be able to make choices on what to do on a Student record Technical.
-- Data should not be lost in case of failure.
-- Data should not be lost in case of failure.
+User shall be able to add new Student record.
+User shall be able to delete a Student record.
+User shall be able to print a Student record.
+User shall be able to check whether a Student is eligible Technical.
+User shall be able to make choices on what to do on a Student record Technical.
+Data should not be lost in case of failure.
+Data should not be lost in case of failure.
 
 **Low level Requirements:**
 
-- New record shall be added by providing all the asked information.
-- Student record shall be deleted completely.
-- All the information of the student given should be printed.
-- Should be able to find the eligibility of the student without mistakes.
-- Should be able to give user different choices like add,delete,print etc.
-- When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not.
+New record shall be added by providing all the asked information.
+Student record shall be deleted completely.
+All the information of the student given should be printed.
+Should be able to find the eligibility of the student without mistakes.
+Should be able to give user different choices like add,delete,print etc.
+When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not.
 
